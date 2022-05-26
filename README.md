@@ -1,4 +1,4 @@
-# kafka_local_streaming
+# Apache Kafka Local Streaming
 
 Local streaming example using Apache Kafka.
 
